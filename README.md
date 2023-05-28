@@ -1,5 +1,6 @@
-    👋 Hi, I’m Artem
-    👀 I’m interested in js/React
-    🌱 I’m currently learning web
-    📫 How to reach me: https://tlgg.ru/artruu
+- 👋 Hi, My name Artem and i’m php/js - developer
+- 👀 I’m interested in php/laravel
+- 🌱 I’m currently learning Go (Golang)
+- 📫 How to reach me: https://tlgg.ru/artruu
+- Duable Git - https://github.com/Artem99
 
